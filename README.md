@@ -1,4 +1,4 @@
-FinanceFlow with Marc
+# FinanceFlow with Marc
 ## Project Overview
 
 **finance_flow_with_marc** is a data pipeline project designed to fetch, process, and store stock prices from the Yahoo Finance API. The pipeline uses Apache Airflow for orchestration, Minio for object storage, Spark for data processing, PostgreSQL for the data warehouse, Slack for notifications, and Metabase for data visualization.
